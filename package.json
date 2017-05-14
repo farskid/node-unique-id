@@ -1,0 +1,23 @@
+{
+  "name": "node-unique-id",
+  "version": "1.0.0",
+  "description": "Generate a unique id",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farskid/node-unique-id.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Uniqueid"
+  ],
+  "author": "Farzad YZ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/farskid/node-unique-id/issues"
+  },
+  "homepage": "https://github.com/farskid/node-unique-id#readme"
+}
